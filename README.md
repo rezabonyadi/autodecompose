@@ -7,9 +7,7 @@ This is autodecompose applied to audio signals uttered by 30 different speakers 
 ![](https://github.com/rezabonyadi/autodecompose/blob/main/assets/20_people_voice_recog.gif)
 
 This is how the overall architecture of the autodecompose looks like.
-![proposed_schem](https://user-images.githubusercontent.com/25924343/214697989-59c7a20e-4f7d-4a59-8c41-d056fa2519c5.png)
-
-<img src="https://user-images.githubusercontent.com/25924343/214697989-59c7a20e-4f7d-4a59-8c41-d056fa2519c5.png"  width="600" height="300">
+<img src="https://user-images.githubusercontent.com/25924343/214697989-59c7a20e-4f7d-4a59-8c41-d056fa2519c5.png"  width="600" height="600">
 
 
 The model can be applied to other tasks as long as the two mentioned augmentations can be designed. In other words, rather than labeling, one can implement these complementary augmentations, which could potentially be less labor intensive.
